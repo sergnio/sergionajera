@@ -348,3 +348,7 @@ header.masthead p {
 #site-logo {
     height: 5rem;
 }
+
+.smaller-header {
+  font-size: 2.6rem;
+}
